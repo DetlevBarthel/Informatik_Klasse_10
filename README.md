@@ -1,6 +1,4 @@
-# Änderungen vorgenommen
-Ich habe Änderungen auf meinem lokalen Repository gemacht:
-- z.B. Files löschen, ersetzen oder verschieben. 
+Repo für Inhalte der Klassen 10
 
 ## Stage die Veränderungen
 `git add .` staged alle Veränderungen.
