@@ -10,5 +10,5 @@ Repo für Inhalte der Klassen 10
 ## Schicke die Veränderungen in die Cloud
 `git push`
 
-# Änderungen herunterladen
-`git pull`
+# Änderungen herunterladen, das Repo aktualisieren
+`git pull origin main`
